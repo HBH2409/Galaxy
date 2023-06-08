@@ -116,7 +116,7 @@ renderer.setAnimationLoop(() => {
 
 
 var i = 0;
-var txt1 = "Word";
+var txt1 = "Galaxy";
 var speed = 50;
 typeWriter();
 function typeWriter() {
